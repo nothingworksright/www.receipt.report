@@ -1,3 +1,3 @@
-# github-pages-tempate  
+# www.receipt.report  
 
-🌐 GitHub Pages repository template.  
+🌐 GitHub Pages repository for [www.receipt.report](https://www.receipt.report).  
